@@ -1,5 +1,4 @@
 ﻿using System;
-//1.3
 
 enum DiasSemana
 {
